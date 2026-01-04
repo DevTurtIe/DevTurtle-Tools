@@ -7,7 +7,7 @@
 ---------------Credits----------------
 ]]
 
--->> Modules
+-->> Number Format Tables
 local NumberFullNames = {
 	[0] = "",
 	[3] = "Thousand",
